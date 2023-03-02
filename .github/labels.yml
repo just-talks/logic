@@ -1,0 +1,9 @@
+- color: fef2c0
+  description: Author 可申请锁住当前讨论
+  name: Locked
+- color: e4e669
+  description: ""
+  name: Prolog
+- color: 1d76db
+  description: ""
+  name: 推理
